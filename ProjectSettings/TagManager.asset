@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - score
+  - TrapCollider
+  - ground
+  - Wall
+  - Enemy
+  - Key
+  - Item
+  - TrapMove
+  - Trap
+  - sensorCollider
+  - Sensor
+  - PlayerHead
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Ground
+  - Item
+  - 
+  - 
+  - System
+  - 
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Mobile
+  - Inventory
+  - Tom
+  - Screen
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
